@@ -19,6 +19,7 @@ Full Stack Developer | Israel
 • Math Background: Linear Algebra, Boolean Algebra, Statistics, Calculus (Differential & Integral)
 
 🤝 Let's Connect!
+
 📫 Email: [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
 🐙 GitHub: [github.com/estush](https://github.com/estush)  
 🔗 LinkedIn: [linkedin.com/in/esti-nehoray](https://www.linkedin.com/in/esti-nehoray/)
