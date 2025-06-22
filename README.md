@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Esti Nehoray
 
-**Full Stack Developer | Based in Israel**
+**Full Stack Developer | Israel**
 
 ---
 
