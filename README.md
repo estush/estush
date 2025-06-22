@@ -28,7 +28,7 @@
 
 ---
 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 📫 Email: [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
 🐙 GitHub: [github.com/estush](https://github.com/estush)  
@@ -46,8 +46,9 @@
 
 ## 🤝 Let's Connect
 
-[<img src="https://img.icons8.com/ios-filled/20/000000/email.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
-[<img src="https://img.icons8.com/ios-glyphs/20/000000/github.png"/>](https://github.com/estush) [github.com/estush](https://github.com/estush)  
+[<img src="https://img.icons8.com/fluency-systems-filled/20/ffffff/new-post.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
+[<img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png"/>](https://github.com/estush) [github.com/estush](https://github.com/estush)  
 [<img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png"/>](https://www.linkedin.com/in/esti-nehoray/) [linkedin.com/in/esti-nehoray](https://www.linkedin.com/in/esti-nehoray/)
+
 
 
