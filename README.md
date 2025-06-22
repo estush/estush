@@ -1,14 +1,21 @@
-![image](https://github.com/user-attachments/assets/78e2fd97-48c1-44d4-b6d6-3d3860d6a93f)Hi 👋, I'm Esti Nehoray
+Hi 👋, I'm Esti Nehoray
 A full stack developer from Israel
-estush
-estush
 🌱 I’m currently learning AWS & In-depth topics on the server and client side
-💬 Ask me about React, Node.JS, Angular, Java, & C#.net
 👨‍💻 All of my projects are available at https://github.com/estush
-📫 How to reach me estinehoray@gmail.com
 ⚡ Fun fact Loves to learn new things, determined to succeed, and motivated to prove myself
-Connect with me:
+📫 How to reach me estinehoray@gmail.com
+
 Languages and Tools:
+• Programming languages: C, C++, Java, Python, C#.net
+• WEB development: React, Angular, TypeScript, HTML5, CSS, JavaScript, Node.js
+• Technologies: Visual Studio.Net 2022, Docker, Git, GitHub, AWS
+• Operating Systems: Linux, Windows
+• Databases: SQL Server, MySQL, MongoDB
+• Additional studies: algorithms and Data Structures, systems analysis, communication and
+Networks.
+• Advanced Mathematics Courses: Linear and Boolean Algebra, Statistics, Differential and Integral
+Calculus
+Connect with me:
 aws
 azure
 bash
