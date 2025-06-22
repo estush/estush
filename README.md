@@ -2,8 +2,6 @@
 
 **Full Stack Developer | Based in Israel**
 
-🎯 *Coding with purpose, growing with every commit.*
-
 ---
 
 🌱 Currently diving deep into **AWS**, server-side architecture, and advanced front-end techniques  
