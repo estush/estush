@@ -4,12 +4,16 @@ Full Stack Developer | Israel
 🎯 Coding with purpose, growing with every commit.
 
 🌱 Currently diving deep into AWS, server-side architecture, and advanced front-end techniques.
+
 👨‍💻 Check out my work on GitHub — real-world projects that showcase both front-end and back-end skills.
+
 ⚡ Fun fact: I'm passionate about learning new technologies, constantly pushing myself, and turning challenges into growth opportunities.
+
 📫 Reach me at: estinehoray@gmail.com
 
 
 🛠️ Languages and Tools:
+
 • Programming languages: C, C++, Java, Python, C#.net
 • WEB development: JavaScript, TypeScript, React, Angular, Node.js, Next.js, Spring, HTML5, CSS, Tailwind CSS, Bootstrap, Sass.
 • DevOps & Cloud: Docker, AWS, Azure, Git, GitHub
