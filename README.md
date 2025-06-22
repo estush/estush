@@ -43,17 +43,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-estush-181717?style=flat-square&logo=github)](https://github.com/estush)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esti%20Nehoray-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/esti-nehoray/)
 
-
 ## 🤝 Let's Connect
 
-[<img src="https://img.icons8.com/fluency-systems-filled/20/ffffff/new-post.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
-[<img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png"/>](https://github.com/estush) [github.com/estush](https://github.com/estush)  
-[<img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png"/>](https://www.linkedin.com/in/esti-nehoray/) [linkedin.com/in/esti-nehoray](https://www.linkedin.com/in/esti-nehoray/)
-
-## 🤝 Let's Connect
-
-[<img src="https://img.icons8.com/ios-filled/20/FF0000/new-post.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
+[<img src="https://img.icons8.com/ios-filled/20/B22222/new-post.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
 [<img src="https://img.icons8.com/ios-glyphs/20/800080/github.png"/>](https://github.com/estush) [github.com/estush](https://github.com/estush)  
 [<img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png"/>](https://www.linkedin.com/in/esti-nehoray/) [linkedin.com/in/esti-nehoray](https://www.linkedin.com/in/esti-nehoray/)
+
 
 
