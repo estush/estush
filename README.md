@@ -7,16 +7,6 @@ Full Stack Developer | Israel
 ⚡ I'm passionate about learning new technologies, pushing my limits, and turning challenges into growth opportunities  
 📫 Reach me at: [estinehoray@gmail.com](mailto:estinehoray@gmail.com)
 
-🌱 Currently diving deep into AWS, server-side architecture, and advanced front-end techniques.
-
-👨‍💻 Check out my work on GitHub — real-world projects that showcase both front-end and back-end skills.
-
-⚡ Fun fact: I'm passionate about learning new technologies, constantly pushing myself, and turning challenges into growth opportunities.
-
-
-🪢 Reach me at: estinehoray@gmail.com
-
-
 🛠️ Languages and Tools:
 
 • Programming languages: C, C++, Java, Python, C#.net
