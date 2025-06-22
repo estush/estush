@@ -1,4 +1,5 @@
 Hi 👋, I'm Esti Nehoray
+
 Full Stack Developer | Israel
 
 🎯 Coding with purpose, growing with every commit.
@@ -37,7 +38,10 @@ Full Stack Developer | Israel
 🤝 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-estinehoray@gmail.com-red?style=flat-square&logo=gmail)](mailto:estinehoray@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-estush-181717?style=flat-square&logo=github)](https://github.com/estush)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esti%20Nehoray-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/esti-nehoray/)
+
 
 🎯 Coding with purpose, growing with every commit.
