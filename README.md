@@ -2,6 +2,10 @@ Hi 👋, I'm Esti Nehoray
 
 Full Stack Developer | Israel
 
+🌱 Currently diving deep into **AWS**, server-side architecture, and advanced front-end techniques  
+👩‍💻 Explore my [GitHub](https://github.com/estush) for real-world projects showcasing both front-end and back-end development  
+⚡ I'm passionate about learning new technologies, pushing my limits, and turning challenges into growth opportunities  
+📫 Reach me at: [estinehoray@gmail.com](mailto:estinehoray@gmail.com)
 
 🌱 Currently diving deep into AWS, server-side architecture, and advanced front-end techniques.
 
