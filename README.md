@@ -2,8 +2,6 @@ Hi 👋, I'm Esti Nehoray
 
 Full Stack Developer | Israel
 
-🎯 Coding with purpose, growing with every commit.
-
 
 🌱 Currently diving deep into AWS, server-side architecture, and advanced front-end techniques.
 
