@@ -1,10 +1,14 @@
 Hi 👋, I'm Esti Nehoray
 Full Stack Developer | Israel
 
+🎯 Coding with purpose, growing with every commit.
+
 🌱 Currently diving deep into AWS, server-side architecture, and advanced front-end techniques.
 👨‍💻 Check out my work on GitHub — real-world projects that showcase both front-end and back-end skills.
 ⚡ Fun fact: I'm passionate about learning new technologies, constantly pushing myself, and turning challenges into growth opportunities.
 📫 Reach me at: estinehoray@gmail.com
+
+🎯 Coding with purpose, growing with every commit.
 
 🛠️ Languages and Tools:
 • Programming languages: C, C++, Java, Python, C#.net
@@ -19,6 +23,8 @@ Full Stack Developer | Israel
 📫 Email: estinehoray@gmail.com
 🐙 GitHub: github.com/estush
 🔗 LinkedIn: linkedin.com/in/esti-nehoray
+
+🎯 Coding with purpose, growing with every commit.
 
 
 🤝 Let's Connect!
