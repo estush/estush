@@ -1,50 +1,29 @@
 Hi 👋, I'm Esti Nehoray
-A full stack developer from Israel
-🌱 I’m currently learning AWS & In-depth topics on the server and client side
-👨‍💻 All of my projects are available at https://github.com/estush
-⚡ Fun fact Loves to learn new things, determined to succeed, and motivated to prove myself
-📫 How to reach me estinehoray@gmail.com
+Full Stack Developer | Israel
 
-Languages and Tools:
+🌱 Currently diving deep into AWS, server-side architecture, and advanced front-end techniques.
+👨‍💻 Check out my work on GitHub — real-world projects that showcase both front-end and back-end skills.
+⚡ Fun fact: I'm passionate about learning new technologies, constantly pushing myself, and turning challenges into growth opportunities.
+📫 Reach me at: estinehoray@gmail.com
+
+🛠️ Languages and Tools:
 • Programming languages: C, C++, Java, Python, C#.net
-• WEB development: React, Angular, TypeScript, HTML5, CSS, JavaScript, Node.js
-• Technologies: Visual Studio.Net 2022, Docker, Git, GitHub, AWS
-• Operating Systems: Linux, Windows
+• WEB development: JavaScript, TypeScript, React, Angular, Node.js, Next.js, Spring, HTML5, CSS, Tailwind CSS, Bootstrap, Sass.
+• DevOps & Cloud: Docker, AWS, Azure, Git, GitHub
 • Databases: SQL Server, MySQL, MongoDB
-• Additional studies: algorithms and Data Structures, systems analysis, communication and
-Networks.
-• Advanced Mathematics Courses: Linear and Boolean Algebra, Statistics, Differential and Integral
-Calculus
-Connect with me:
-aws
-azure
-bash
-bootstrap
-c
-cplusplus
-csharp
-docker
-dotnet
-express
-figma
-git
-html5
-illustrator
-java
-javascript
-jest
-kafka
-linux
-mocha
-mongodb
-mysql
-nextjs
-nodejs
-photoshop
-python
-react
-reactnative
-redux
-sass
-spring
-typescript
+• Operating Systems: Linux, Windows
+• Additional  Knowledge: Algorithms & Data Structures, System Analysis, Computer Networks
+• Math Background: Linear Algebra, Boolean Algebra, Statistics, Calculus (Differential & Integral)
+
+🤝 Let's Connect!
+📫 Email: estinehoray@gmail.com
+🐙 GitHub: github.com/estush
+🔗 LinkedIn: linkedin.com/in/esti-nehoray
+
+
+🤝 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-estinehoray@gmail.com-red?style=flat-square&logo=gmail)](mailto:estinehoray@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-estush-181717?style=flat-square&logo=github)](https://github.com/estush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esti%20Nehoray-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/esti-nehoray/)
+
