@@ -14,7 +14,8 @@ Full Stack Developer | Israel
 
 🛠️ Languages and Tools:
 
-• Programming languages: C, C++, Java, Python, C#.net
+• Programming languages: 
+C, C++, Java, Python, C#.net
 • WEB development: JavaScript, TypeScript, React, Angular, Node.js, Next.js, Spring, HTML5, CSS, Tailwind CSS, Bootstrap, Sass.
 • DevOps & Cloud: Docker, AWS, Azure, Git, GitHub
 • Databases: SQL Server, MySQL, MongoDB
