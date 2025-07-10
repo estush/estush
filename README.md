@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Esti Nehoray
 
-**Full Stack Developer | Israel**
+**Software Developer | Israel**
 
 ---
 
