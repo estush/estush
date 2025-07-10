@@ -28,8 +28,7 @@
 
 ## 🤝 Let's Connect
 
-[<img src="https://img.icons8.com/ios-filled/20/B22222/new-post.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)  
-[<img src="https://img.icons8.com/ios-glyphs/20/800080/github.png"/>](https://github.com/estush) [github.com/estush](https://github.com/estush)  
+[<img src="https://img.icons8.com/ios-filled/20/B22222/new-post.png"/>](mailto:estinehoray@gmail.com) [estinehoray@gmail.com](mailto:estinehoray@gmail.com)    
 [<img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png"/>](https://www.linkedin.com/in/esti-nehoray/) [linkedin.com/in/esti-nehoray](https://www.linkedin.com/in/esti-nehoray/)
 
 
